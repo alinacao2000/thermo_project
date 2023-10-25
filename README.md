@@ -11,7 +11,7 @@ This repository hosts our EN540.630 Thermodynamics project, focusing on the comp
 2. [Methodologies](#Methodologies)
 3. [Usage](#Usage)
 4. [Contributing](#Contributing)
-5. [License](#License)
+5. [Team Members](#Team-Members)
 6. [Contact](#Contact)
 7. [Acknowledgements](#Acknowledgements)
 
@@ -47,8 +47,10 @@ After installation, execute the following command to run the simulation:
 ```bash
 python main.py
 ```
-
----
+## Team members
+- Yi Cao
+- Madaline Marland
+- Rundong Yu
 
 ## Contact
 For more information, feel free to reach out at: `yicao.alina@email.com`
