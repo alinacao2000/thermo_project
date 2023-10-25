@@ -1,4 +1,3 @@
----
 
 # Thermodynamics Project: Computational Simulations of a one-component icosahedral quasicrystal
 ## Overview
@@ -14,8 +13,6 @@ This repository hosts our EN540.630 Thermodynamics project, focusing on the comp
 5. [Team Members](#Team-Members)
 6. [Contact](#Contact)
 7. [Acknowledgements](#Acknowledgements)
-
----
 
 ## Getting Started
 

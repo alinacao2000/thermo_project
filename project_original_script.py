@@ -12,7 +12,6 @@ import numpy as np
 particleNumber = 4096
 numberDensity = 0.03
 temperature = 0.25
-
 potential_k = 8.00
 potential_phi = 0.53  # initial k and phi
 timeSteps = int(50e6)
