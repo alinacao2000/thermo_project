@@ -22,6 +22,7 @@ This repository hosts our thermodynamics project, focusing on the computational 
 
 ### Prerequisites
 - Python 3.x
+- HOOMD-Blue 3.11.0
 - Additional Python libraries (as specified in `requirements.txt`)
 
 ### Installation
@@ -50,24 +51,12 @@ python main.py
 
 ---
 
-## Contributing
-To contribute to this project, please refer to the `CONTRIBUTING.md` guidelines.
-
----
-
-## License
-This project is licensed under the MIT License - see the `LICENSE.md` file for details.
-
----
-
 ## Contact
-For more information, feel free to reach out at: `your_email@email.com`
+For more information, feel free to reach out at: `yicao.alina@email.com`
 
 ---
 
 ## Acknowledgements
-- Special thanks to Professor X and Dr. Y for their guidance and expertise.
+- Special thanks to Dr. Thi Vo for his guidance and expertise.
 
 ---
-
-This `README.md` is concise and directs readers to the wiki for a more detailed explanation. This way, the repository remains organized and easier to navigate. Feel free to modify the text according to your specific needs.
