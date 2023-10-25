@@ -1,9 +1,8 @@
 ---
 
-# Thermodynamics Project: Computational Simulations of Two Systems
-
+# Thermodynamics Project: Computational Simulations of a one-component icosahedral quasicrystal
 ## Overview
-This repository hosts our thermodynamics project, focusing on the computational simulations of two specific systems to understand their unique thermodynamic properties.
+This repository hosts our EN540.630 Thermodynamics project, focusing on the computational simulations of two specific systems of one-component icosahedral quasicrystal to understand their unique thermodynamic properties and self-assembly behaviors.
 
 ## Table of Contents
 1. [Getting Started](#Getting-Started)
@@ -57,6 +56,6 @@ For more information, feel free to reach out at: `yicao.alina@email.com`
 ---
 
 ## Acknowledgements
-- Special thanks to Dr. Thi Vo for his guidance and expertise.
+- Special thanks to **_Dr._ Thi Vo** for his guidance and expertise.
 
 ---
