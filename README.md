@@ -47,6 +47,7 @@ python main.py
 ## Team members
 - Yi Cao
 - Madaline Marland
+- Zhangyi Song
 - Rundong Yu
 
 ## Contact
