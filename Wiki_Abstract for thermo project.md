@@ -9,6 +9,7 @@ This project aims to investigate the computational self-assembly of Icosahedral 
 - [Methodology](#Methodology)
 - [Results and Discussion](#Results-and-Discussion)
 - [Future Work](#Future-Work)
+- [Team Members](#Future-Work)
 
 ---
 

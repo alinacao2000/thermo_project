@@ -55,6 +55,6 @@ For more information, feel free to reach out at: `yicao.alina@email.com`
 ---
 
 ## Acknowledgements
-- Special thanks to **_Dr._ Thi Vo** for his guidance and expertise.
+- Special thanks to **_Dr._ Thi Vo** and **Kireeti Akkunuri** for their guidance and expertise.
 
 ---
