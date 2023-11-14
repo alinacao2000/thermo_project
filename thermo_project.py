@@ -61,11 +61,12 @@ cell = hoomd.md.nlist.Cell(buffer=0.4)
 
 # Define OPP potential and add to integrator
 # default_r_cut need to be modified, or just leave it 3.0! should be an OK guess? (see the paper)
-opp = hoomd.md.pair.OPP(cell, default_r_cut=3.0)  # should we change the default_r_cut?
+opp = hoomd.md.pair.OPP(cell, default_r_cut=2.5)  # should we change the default_r_cut?
+
 opp.params[('A', 'A')] = {
     'C1': 1., 'C2': 1., 'eta1': 15,
     'eta2': 3, 'k': potential_k, 'phi': potential_phi}
-
+opp.r_cut[('A', 'A')] = 3.0
 integrator.forces.append(opp)
 
 # Pair potential table?
@@ -76,7 +77,7 @@ integrator.forces.append(opp)
 # Integrate at constant temperature
 full = hoomd.filter.All()
 nvt = hoomd.md.methods.NVT(kT=temperature, filter=full, tau=1.0)
-integrate = hoomd.md.Integrator(dt=0.005, methods=[nvt])
+integrate = hoomd.md.Integrator(dt=0.001, methods=[nvt])
 integrator.methods.append(nvt)
 
 # assign to the simulation
