@@ -5,7 +5,7 @@ import numpy as np
 import datetime
 import gsd.hoomd
 import itertools
-
+impor numpy
 
 # Define the device
 cpu = hoomd.device.CPU()
