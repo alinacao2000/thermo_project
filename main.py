@@ -19,7 +19,7 @@ sim = hoomd.Simulation(device=cpu, seed=777)
 ### Define initial condition ###
 
 # Parameters
-particleNumber = 409
+particleNumber = 4096
 numberDensity = 0.03
 temperature = 0.25
 timeSteps = int(10e6)
